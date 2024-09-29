@@ -1,4 +1,5 @@
 :root {
+    /*Sarah Oliveira Santana 3D 29/09/2024*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -43,7 +44,7 @@ body {
     text-decoration: none;
     margin-bottom: 1em;
 }
-
+/*Sarah Oliveira Santana 3D 29/09/2024*/
 .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
@@ -111,7 +112,7 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
 }
-
+/*Sarah Oliveira Santana 3D 29/09/2024*/
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
@@ -144,7 +145,7 @@ body {
 .lista__link a:hover {
     color: var(--botao-azul);
 }
-
+/*Sarah Oliveira Santana 3D 29/09/2024*/
 .lista__link a:active {
     color: purple;
 }
